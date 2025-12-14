@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/shoppingserver/Shoppingserver.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/DesignPatterns/OrderSubject.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/Mainclasses/Order.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/Mainclasses/Product.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/rmi_implementations/ProductService.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/rmi/ProductviewFacade.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/rmi_implementations/OrderService.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/DesignPatterns/OrderStatus.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/src/rmi_implementations/AdminService.java</file>
+            <file>file:/C:/Users/lenovo/OneDrive/Desktop/ShoppingRMI/ShoppingRMI/Shoppingserver/Shoppingserver/Shoppingserver/test/AddProductTest.java</file>
+        </group>
+    </open-files>
+</project-private>
